@@ -1,0 +1,16 @@
+--Generating a new SSH key
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+
+> Enter passphrase (empty for no passphrase): [Type a passphrase]
+> Enter same passphrase again: [Type passphrase again]
+
+$ eval $(ssh-agent -s)
+
+$ ssh-add ~/.ssh/"id_rsa"
+
+
+--Adding the SSH key in the github.
+
+
+--To verify whether the SSH is correctly configured
+$ ssh -T git@github.com

@@ -1,0 +1,9 @@
+$ git help (command to help us)
+
+$ git help init (the description of the command)
+
+
+$ git init ("" to create in the currently directory or c:\path\..." to create a repository in the specific directory)
+
+$ git add ("." to add everything or "specific_name" to add a specific content)
+
