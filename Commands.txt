@@ -1,9 +1,55 @@
+---------------------------Commands to HELP---------------------------
 $ git help (command to help us)
 
 $ git help init (the description of the command)
 
 
+
+---------------------------Commands to INIT and COMMIT---------------------------
 $ git init ("" to create in the currently directory or c:\path\..." to create a repository in the specific directory)
 
 $ git add ("." to add everything or "specific_name" to add a specific content)
+
+$ git commit (Insert a commentary and press ESC and write ":wq" to save and exit)
+$ git commit -m "Your commentary"
+
+
+---------------------------Commands to CHECK some information---------------------------
+$ git status (To check the repository status)
+
+$ git log (To check the commits)
+
+
+
+---------------------------Commands to HELP---------------------------
+$ git 
+
+$ git 
+
+
+---------------------------Commands to HELP---------------------------
+$ git 
+
+$ git 
+---------------------------Commands to HELP---------------------------
+$ git 
+
+$ git 
+---------------------------Commands to HELP---------------------------
+$ git 
+
+$ git 
+---------------------------Commands to HELP---------------------------
+$ git 
+
+$ git 
+---------------------------Commands to HELP---------------------------
+$ git 
+
+$ git 
+
+
+
+
+
 
